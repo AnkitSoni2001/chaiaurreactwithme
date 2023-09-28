@@ -1,0 +1,53 @@
+.backGround{
+    background-color: aqua;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 2rem;
+    background-color: white;
+    width: 40vw;
+    height: 7vh;
+    border-radius: 7px;
+}
+
+.red{
+    width: 4vw;
+    height: 4vh;
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.green{
+    width: 4vw;
+    height: 4vh;
+    background-color: green;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+.blue{
+    width: 4vw;
+    height: 4vh;
+    background-color: blue;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+
+.pink{
+    width: 4vw;
+    height: 4vh;
+    background-color: pink;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
